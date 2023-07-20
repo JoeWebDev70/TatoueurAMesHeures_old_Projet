@@ -25,7 +25,7 @@ Dans ce dépôt vous trouverez le file figma du projet et le rapport lighthouse.
 <br>
 
 ## Galerie
-<img src="./TatoueurAMesHeures_old_figma/wireframe_galerie.webp" alt="Galerie" height="500">
+<img src="./TatoueurAMesHeures_old_figma/galerie.webp" alt="Galerie" height="500">
 <br>
 
 ## Contact
